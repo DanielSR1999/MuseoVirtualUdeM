@@ -11,6 +11,8 @@
 		}
 	],
 	"TargetPlatforms": [
+		"HTML5",
+		"AllDesktop",
 		"WindowsNoEditor"
 	]
 }
